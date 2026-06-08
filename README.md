@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://balajisangana.pages.dev/">Website</a> •
+  <a href="https://balaji-sangana.is-a.dev/">Website</a> •
   <a href="mailto:balajisangana731@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/balaji-sangana">LinkedIn</a>
 </p>
